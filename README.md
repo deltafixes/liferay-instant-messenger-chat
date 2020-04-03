@@ -14,11 +14,10 @@ This plugin does not required any external software support/server to works, it 
 
 ## Environment
 1. Liferay 7.0 DXP
-2. Liferay 7.0 CE-GA5+
-3. Liferay 7.1 DXP
-4. Liferay 7.1 CE-GA1+
-5. Liferay 7.2 DXP
-4. Liferay 7.2 CE-GA1+
+2. Liferay 7.1 DXP
+3. Liferay 7.1 CE-GA1+
+4. Liferay 7.2 DXP
+5. Liferay 7.2 CE-GA1+
 
 ## Features
 1. Admin can customization chat colors, enable/disable the chat request feature
